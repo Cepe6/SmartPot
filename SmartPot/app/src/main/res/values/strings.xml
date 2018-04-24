@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SmartPot</string>
+    <string name="show_paired">Show Paired</string>
+    <string name="welcome">Welcome!</string>
+    <string name="watering_time">Watering time</string>
+    <string name="water">Water</string>
+    <string name="flower_information">Flower information</string>
+    <string name="dividerline">dividerLine</string>
+    <string name="soil">Soil</string>
+    <string name="air">Air</string>
+    <string name="temperature">Temperature:</string>
+    <string name="moisture">Moisture:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="automatic_watering">Automatic watering</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="threshold">Threshold:</string>
+    <string name="set_threshold">Set threshold:</string>
+    <string name="_100">100</string>
+    <string name="set">Set</string>
+    <string name="manual_watering">Manual watering:</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
